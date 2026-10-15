@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Jalankan Web & Xdebug",
+            "type": "php",
+            "request": "launch",
+            "port": 9003,
+            "runtimeExecutable": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+            "runtimeArgs": [
+                "http://localhost/WAD_ALMA_TB_M1_ADIT_102022500234/Modul.php"
+            ]
+        }
+    ]
+}
